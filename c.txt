@@ -1,3 +1,4 @@
 Noi dung C
 
 cap nhat o documents/code/learn_github
+cap nhat boi learn_github
